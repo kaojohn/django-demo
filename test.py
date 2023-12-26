@@ -1,7 +1,4 @@
-import requests
-from bs4 import BeautifulSoup
+import random
 
-url = requests.get("https://www.yahoo.com.tw")
-soup = BeautifulSoup(url, "lxml")
-
-print(a)
+# 1~50
+x = random.randint(1, 50)
