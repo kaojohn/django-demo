@@ -11,6 +11,6 @@ for i in range(5):
     else:
         print("ON~NO!!")
         if x > y:
-            print("big")
+            print("big!!")
         else:
             print("すも")
