@@ -25,4 +25,4 @@ for i in range(5):
                 end = y - 1
             print("すも!!")
 if i == 4:
-    print(f"ans:{x}")
+    print(f"ans:{x}!!!")
