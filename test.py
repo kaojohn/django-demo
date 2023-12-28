@@ -13,4 +13,4 @@ for i in range(5):
         if x > y:
             print("big!!")
         else:
-            print("すも")
+            print("すも!!")
